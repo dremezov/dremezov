@@ -1,0 +1,2 @@
+- Hi, I’m Danil Remezov.
+- I’m interested in Data Analyses and currently learning in Yandex Practicum.
